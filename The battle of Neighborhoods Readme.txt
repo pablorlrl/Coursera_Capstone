@@ -1,0 +1,1 @@
+Imagine that we want to go to New York for our holidays and we want to know how to choose an airbnb to stay a few days. Well in my project, I will compare the airbnbs in New York City and determine how similar or dissimilar they are based in pricing and xxxxxxx house pricing they are.
